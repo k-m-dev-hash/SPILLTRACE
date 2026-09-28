@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy
+pandas
+opencv-python
+scikit-learn
+shapely
+pyproj
+geopandas
+python-multipart
+tifffile
